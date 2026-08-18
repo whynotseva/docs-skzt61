@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-tza2me.kujang138bos.online/sitemap.xml
